@@ -3,7 +3,7 @@
 
 **Attendance**: Jess Thomas, Amanda E.J., Ashley L., Carl S., Chris P., Dominique C., Greg S., Haley R., Janice M., Jem, Jen R., Marie S., Mel G., Sarah I., and Sol K.
 
-### Agenda
+## Agenda
 **11:00AM** - Meet and greet
 
 **11:15AM** - Introductions
@@ -23,8 +23,8 @@ We came up with 5 main themes:
 * Regular meetings, both casual and more focused, to keep the momentum going.
 * Next meeting will be at the end of July - Jessica will collect availability and set the date.
 
-### Discussion Summary
-##### Events
+## Discussion Summary
+### Events
 * **Questions**
   * How can we design events that emphasize diversity and inclusion?
 
@@ -50,7 +50,7 @@ We came up with 5 main themes:
 * **Resources**
   * http://pyconuk-2016-internaldocs.readthedocs.io/en/latest/speaker-diversity/#how-to-meet-this-target 
 
-##### Workplace
+### Workplace
 * **Hiring**
   * How can we make our job postings appeal to a more diverse audience?
   * How can we improve the hiring process in general?
@@ -67,7 +67,7 @@ We came up with 5 main themes:
   * **Champion the accomplishments of others** (eg. a #wins channel for things like I finally got my environment working!)
   * **Give credit** to the person who actually did the work, not just to the loudest person on the project
 
-##### Outreach
+### Outreach
 * **What’s going well?**
   * **Ladies Learning Code and Girls Learning Code**
     * development workshops for women and girls
@@ -89,12 +89,12 @@ We came up with 5 main themes:
   * If your company has the means, **sponsor programs that do outreach.**
   * **Outreach to grade schools** (eg. career fairs, giving talks in elementary and high schools)
 
-##### Unconscious Bias
+### Unconscious Bias
 * **Questions**
   * How can we be better allies?
   * How can we provide support to folks who want to be better allies?
 
-##### Marketing
+### Marketing
 * **Make a positive, inclusive community part of the Victoria Tech Brand**, possibly working with City Hall to promote initiatives.
 * **Create documentation and resources that show how people can help** for different types of people who are interested in improving diversity in the industry.
 * Pitch diversity articles to media (eg. VentureBeat), **hold local media accountable** for featuring diversity when they talk about tech (eg. this tech CEO panel in [Capital Magazine](https://issuu.com/timescolonist/docs/capbizsum2016/57?e=11361121/36163453))
